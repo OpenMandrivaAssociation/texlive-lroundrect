@@ -1,6 +1,6 @@
 Name:		texlive-lroundrect
 Version:	39804
-Release:	1
+Release:	2
 Summary:	LaTeX macros for utilizing the roundrect MetaPost routines
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lroundrect
